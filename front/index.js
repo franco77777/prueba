@@ -1,1 +1,7 @@
-colaborador 3
+import React from "react"
+
+const prueba3 = () => {
+  return <div>prueba3</div>
+}
+
+export default prueba3
