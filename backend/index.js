@@ -1,7 +1,8 @@
 import React from "react"
 
 const index = () => {
-  return <div>colaborador4</div>
+  return <div>colaborador5</div>
+
 }
 
 export default index
