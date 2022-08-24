@@ -1,7 +1,8 @@
 import React from "react"
 
 const index = () => {
-  return <div>inddssddsaex</div>
+  return <div>rama3</div>
+
 }
 
 export default index
